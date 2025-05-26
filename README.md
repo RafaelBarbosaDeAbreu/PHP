@@ -1,2 +1,2 @@
 # TCC PHP
-Projeto desenvolvido como trabalho de conclusão de curso, um site no qual serve como um "mapa" da escola na qual eu fiz o curso técnico, mostrando onde cada professor se encontra, com qual turma está no momento, a matéria e o andar que está
+Project developed as a final course work, a website that serves as a "map" of the school where I took the technical course, showing where each teacher is, which class they are currently with, the subject and the floor they are on.
