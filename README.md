@@ -1,2 +1,2 @@
 # PHP
-Alguns códigos desenvolvidos por mim durante o período do curso te´cnico em informática
+Alguns códigos desenvolvidos por mim durante o período do curso técnico em informática
